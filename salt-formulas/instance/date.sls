@@ -1,0 +1,2 @@
+America/Santiago:
+  timezone.system

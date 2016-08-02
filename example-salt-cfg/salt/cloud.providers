@@ -1,0 +1,9 @@
+aws:
+  driver: ec2
+  id: 'SECRET333333'
+  key: 'super3-3---3sret'
+  keyname: salt-master-c4
+  private_key: /etc/salt/keys/key-here.pem
+  location: us-west-2
+  availability_zone: us-west-2c
+  securitygroup: salt-minions

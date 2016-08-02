@@ -1,0 +1,5 @@
+base:
+  '*':
+    - docker
+    - database
+    - aws
